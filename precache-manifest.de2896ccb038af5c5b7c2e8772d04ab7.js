@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b2f951fcd4e14939c7bef422d5018484",
+    "revision": "e3330a6478b657151e308036b5cb4219",
     "url": "/index.html"
   },
   {
-    "revision": "65a3587daf702c2a656a",
+    "revision": "288b9df328abf4d58932",
     "url": "/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "9efff07cf2a5325c34e2",
+    "revision": "d64087f105d9beceba23",
     "url": "/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "c50f359d17b20e5450d0",
+    "revision": "f9d610a70bdb9d051411",
     "url": "/static/css/main.c01c18fe.chunk.css"
   },
   {
-    "revision": "e382731165b4ff73a1eb",
-    "url": "/static/js/2.f0c5e153.chunk.js"
+    "revision": "e3374b9930de786360cb",
+    "url": "/static/js/2.1355683b.chunk.js"
   },
   {
     "revision": "408f8ade359af8695a328ed937291fdf",
-    "url": "/static/js/2.f0c5e153.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.1355683b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "65a3587daf702c2a656a",
-    "url": "/static/js/3.fceab8fd.chunk.js"
+    "revision": "288b9df328abf4d58932",
+    "url": "/static/js/3.fb59f4fe.chunk.js"
   },
   {
-    "revision": "9efff07cf2a5325c34e2",
-    "url": "/static/js/4.8b8dc19a.chunk.js"
+    "revision": "d64087f105d9beceba23",
+    "url": "/static/js/4.b828ba87.chunk.js"
   },
   {
-    "revision": "c50f359d17b20e5450d0",
-    "url": "/static/js/main.837d43f3.chunk.js"
+    "revision": "f9d610a70bdb9d051411",
+    "url": "/static/js/main.2697075d.chunk.js"
   },
   {
-    "revision": "6729ed44f0f25b999a78",
-    "url": "/static/js/runtime-main.e1910b61.js"
+    "revision": "de166e4d856fcc4a3e3d",
+    "url": "/static/js/runtime-main.f38e5922.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -60,12 +60,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/contactMailDark.51cf7192.svg"
   },
   {
+    "revision": "9e8e50cb178c1e86a5a5bbb730f44d33",
+    "url": "/static/media/darhamad.9e8e50cb.webp"
+  },
+  {
     "revision": "59389695208d7454c6607bed51ed4316",
     "url": "/static/media/developerActivity.59389695.svg"
   },
   {
     "revision": "b4c2cc2755851f423b4e34f70fec44c4",
     "url": "/static/media/faves.b4c2cc27.webp"
+  },
+  {
+    "revision": "e2acd433954e3e56a75f7ca35476e2cc",
+    "url": "/static/media/ghosia.e2acd433.webp"
   },
   {
     "revision": "da7bb5e4d47f317e2b578f02abd38101",
