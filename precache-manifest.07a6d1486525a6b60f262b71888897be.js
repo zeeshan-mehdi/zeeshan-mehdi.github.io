@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e3330a6478b657151e308036b5cb4219",
+    "revision": "3feba610fbb3a1dd507d59c8a4d68130",
     "url": "/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "f9d610a70bdb9d051411",
+    "revision": "a5cdf66bfc46439d72da",
     "url": "/static/css/main.c01c18fe.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.b828ba87.chunk.js"
   },
   {
-    "revision": "f9d610a70bdb9d051411",
-    "url": "/static/js/main.2697075d.chunk.js"
+    "revision": "a5cdf66bfc46439d72da",
+    "url": "/static/js/main.d5c77997.chunk.js"
   },
   {
     "revision": "de166e4d856fcc4a3e3d",
@@ -110,6 +110,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "13780cdd0144cacdef25486e2c2503f8",
     "url": "/static/media/talksCardBack.13780cdd.svg"
+  },
+  {
+    "revision": "030a3975da2b571fb3f1db0667196207",
+    "url": "/static/media/techniax.030a3975.png"
   },
   {
     "revision": "133a4b8b47fc850f82e3df394b786dd2",
